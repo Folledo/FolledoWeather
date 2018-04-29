@@ -13,7 +13,6 @@ class ViewController: UIViewController {
     
     @IBOutlet var resultLabel: UILabel!
     @IBOutlet var backgroundImage: UIImageView!
-    
     var counter = 0
     
     //getWeather method
